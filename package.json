@@ -1,0 +1,20 @@
+{
+  "name": "preisachjs",
+  "version": "1.0.0",
+  "description": "Numerical toolbox for the Preisach hysteresis operator; and it's discrete (multistat) and elementary (thermostat) analogues.",
+  "main": "preisach.js",
+  "scripts": {
+    "test": "node testPreisachJS.js"
+  },
+  "keywords": [
+    "Preisach",
+    "hysteresis",
+    "bistable",
+    "bistability",
+    "thermostat",
+    "multistat",
+    "feedback"
+  ],
+  "author": "marcd",
+  "license": "MIT"
+}
